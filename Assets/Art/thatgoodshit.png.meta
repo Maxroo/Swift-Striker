@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 19fb8a85f3ca82d4d86f6fc0adc58932
+timeCreated: 1517696727
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: thatgoodshit_0
+    21300002: thatgoodshit_1
+    21300004: thatgoodshit_2
+    21300006: thatgoodshit_3
+    21300008: thatgoodshit_4
+    21300010: thatgoodshit_5
+    21300012: thatgoodshit_6
+    21300014: thatgoodshit_7
+    21300016: thatgoodshit_8
+    21300018: thatgoodshit_9
+    21300020: thatgoodshit_10
+    21300022: thatgoodshit_11
+    21300024: thatgoodshit_12
+    21300026: thatgoodshit_13
+    21300028: thatgoodshit_14
+    21300030: thatgoodshit_15
+    21300032: thatgoodshit_16
+    21300034: thatgoodshit_17
+    21300036: thatgoodshit_18
+    21300038: thatgoodshit_19
+    21300040: thatgoodshit_20
+    21300042: thatgoodshit_21
+    21300044: thatgoodshit_22
+    21300046: thatgoodshit_23
+    21300048: thatgoodshit_24
+    21300050: thatgoodshit_25
+    21300052: thatgoodshit_26
+    21300054: thatgoodshit_27
+    21300056: thatgoodshit_28
+    21300058: thatgoodshit_29
+    21300060: thatgoodshit_30
+    21300062: thatgoodshit_31
+    21300064: thatgoodshit_32
+    21300066: thatgoodshit_33
+    21300068: thatgoodshit_34
+    21300070: thatgoodshit_35
+    21300072: thatgoodshit_36
+    21300074: thatgoodshit_37
+    21300076: thatgoodshit_38
+    21300078: thatgoodshit_39
+    21300080: thatgoodshit_40
+    21300082: thatgoodshit_41
+    21300084: thatgoodshit_42
+    21300086: thatgoodshit_43
+    21300088: thatgoodshit_44
+    21300090: thatgoodshit_45
+    21300092: thatgoodshit_46
+    21300094: thatgoodshit_47
+    21300096: thatgoodshit_49
+    21300098: thatgoodshit_48
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thatgoodshit_0
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1675
+        width: 148
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1680
+        width: 229
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1675
+        width: 161
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_3
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1688
+        width: 158
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_4
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1924
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_5
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1676
+        width: 168
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1675
+        width: 198
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1674
+        width: 199
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1680
+        width: 246
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_9
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1678
+        width: 206
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1312
+        width: 196
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1306
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1320
+        width: 159
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1319
+        width: 156
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1324
+        width: 144
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_15
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1311
+        width: 207
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 996
+        width: 166
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 999
+        width: 205
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 997
+        width: 190
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_19
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1051
+        width: 202
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1045
+        width: 190
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_21
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1045
+        width: 226
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_22
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 998
+        width: 270
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_23
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1017
+        width: 270
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 684
+        width: 160
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 687
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 335
+        width: 170
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 687
+        width: 155
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 687
+        width: 155
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_29
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 660
+        width: 131
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_30
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 660
+        width: 131
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_31
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 662
+        width: 132
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_32
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 662
+        width: 133
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 334
+        width: 148
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 308
+        width: 148
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_35
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 378
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_36
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 378
+        width: 199
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 378
+        width: 197
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_38
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 45
+        width: 134
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_39
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 27
+        width: 141
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_40
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 37
+        width: 154
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_41
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 288
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 115
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 212
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 201
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_45
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 60
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_46
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 105
+        width: 187
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_47
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 76
+        width: 188
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thatgoodshit_48
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 381
+        width: 200
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
