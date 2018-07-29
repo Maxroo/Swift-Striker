@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a142f5a4bcaba0b408031a7a5e3413af
+timeCreated: 1517451322
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - green: {instanceID: 0}
+  - BallGreen: {fileID: 21300000, guid: 9f75ac1e0df65b74d815d20fb61fdeff, type: 3}
+  - BallYellow: {fileID: 21300000, guid: 199acfb3e1b84974b956430b2aca540c, type: 3}
+  - BallRed: {fileID: 21300000, guid: e4c0f79106353154ba783c55de5cbb97, type: 3}
+  - BallGrey: {fileID: 21300000, guid: 710580afad0ef0a4797ed8d562570921, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
